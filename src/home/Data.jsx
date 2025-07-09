@@ -12,8 +12,8 @@ const Data = () => {
     typedInstance.current = new Typed(typedElement.current, {
       strings: [
         "Web Developer",
-        "UI-UX Designer",
-        
+        "FrontEnd Engineer",
+        "Software Developer",
         "Coder",
       ],
       loop: true,
@@ -33,7 +33,7 @@ return(
         <h1 className="home_title">Rajveer Singh</h1>
         <h3 className="home_subtitle">I am   <span className="role" ref={typedElement}></span></h3>
         <p className="home_descr">Enthusiastic software developer with strong skills in front-end
-                                  development and object-oriented programming. 
+                                  development Passionate about clean code and delivering seamless user experiences.. 
          </p>
          <button className="button button_flex">Say Hello <FaRegHandPeace  /> </button>
         

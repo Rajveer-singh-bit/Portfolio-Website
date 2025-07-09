@@ -1248,6 +1248,8 @@ body{
 @media screen and (max-width:550px) {
     
  .home_content{
+    left: 70px;
+    position: relative;
     max-width: 300px;
    display: flex;
    flex-direction: column-reverse;
