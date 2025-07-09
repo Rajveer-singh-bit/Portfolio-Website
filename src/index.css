@@ -1248,7 +1248,7 @@ body{
 @media screen and (max-width:550px) {
     
  .home_content{
-    left: 70px;
+    left: 50px;
     position: relative;
     max-width: 300px;
    display: flex;
